@@ -14,24 +14,6 @@ Este é um sistema simples de login criado usando PHP e MySQL, com foco na segur
 - PHP
 - MySQL
 
-## Configuração
-
-1. Clone o repositório:
-
-    ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
-    ```
-
-2. Importe o arquivo SQL fornecido (`database.sql`) para criar a estrutura do banco de dados.
-
-3. Configure as informações de conexão com o banco de dados em `config.php`.
-
-4. Inicie o servidor web e abra o projeto no navegador.
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você encontrar problemas ou melhorias potenciais, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 ## Agradecimentos
 
 - [CodeShack](https://codeshack.io/) pela inspiração e base do código original.
